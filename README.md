@@ -22,7 +22,7 @@ I apply structured programming logic and analytical query design to organize, fi
 * Domain Applications: Satellite telemetry filtering, hardware sentinel data tracking, spatial grid analysis.
 
 -- Active Project Pipeline
-* Telemetry Processing Engine: Developing a multi-stage data processing pipeline. The system uses a core C module to ingest raw hardware files and strip corrupted sentinel frames, connected to a Python/SQL ingestion layer that formats clean datasets into relational tables.
+* [Telemetry Processing Engine](https://github.com/vedantguptatech-ops/telemetry-processing-engine): Developing a multi-stage data processing pipeline. The system uses a core C module to ingest raw hardware files and strip corrupted sentinel frames, connected to a Python/SQL ingestion layer that formats clean datasets into relational tables.
 
 -- Contact Information
 * LinkedIn: [Link]
