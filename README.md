@@ -8,9 +8,9 @@ I enjoy building practical projects that combine programming, structured data, a
 
 ## Academic Profile
 
-- **Indian Institute of Technology Madras** — BS in Electronic Systems
+- **Indian Institute of Technology Madras** BS in Electronic Systems
   - Introduction to C Programming: 92/100 (S-grade / Superior)
-- **ISRO Indian Institute of Remote Sensing (IIRS)** — Technical training and certifications
+- **ISRO Indian Institute of Remote Sensing (IIRS)** Technical training and certifications
   - Remote Sensing Fundamentals
   - Geographic Information Systems (GIS)
   - Space Technology and its Applications
@@ -43,5 +43,5 @@ I am continuing to strengthen my programming and systems foundations through cou
 ## Contact
 
 - **LinkedIn:** [vedantguptatech-ops](https://www.linkedin.com/in/vedantguptatech-ops)
-- **Email:** [vedant.gupta.tech@gmail.com](mailto:vedant.gupta.tech@gmail.com)
+- **Email:** [vedant.gupta.tech@gmail.com](mailto:vedant.gupta.tech@gmail.com) [Compose in Gmail](https://mail.google.com/mail/?view=cm&to=vedant.gupta.tech@gmail.com)
 
